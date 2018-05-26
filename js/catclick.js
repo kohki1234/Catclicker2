@@ -29,3 +29,4 @@ $('#flexible').on('click',flexibleButton.buttonaction);
 $('#alwaysfit').on('click',alwaysfitButton.buttonaction);
 $('#airplane').on('click',airplaneButton.buttonaction);
 
+//test UPDATE ON May 26
