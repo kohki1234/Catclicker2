@@ -1,0 +1,19 @@
+
+
+
+h2 {
+	border:0;
+	font-size:1.3em;
+	color:#aaa;
+	margin:0 0 20px;
+	width:300px;
+}
+
+#description{
+	color: red;
+}
+
+img{
+	width:500px;
+	height:500px;
+}
